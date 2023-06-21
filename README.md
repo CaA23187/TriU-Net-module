@@ -12,7 +12,7 @@ For more details, please refer to https://pubs.aip.org/asa/jasa/article/153/6/33
 Other enhanced wav is available at https://ioa-audio.github.io/2023/03/20/TriU-Net_demo/.
 
 
-
+## Citation
 If you find this repository is helpful to you, please cite
 
 Kelan Kuang, Feiran Yang, Junfeng Li, Jun Yang; Three-stage hybrid neural beamformer for multi-channel speech enhancement. J Acoust Soc Am 1 June 2023; 153 (6): 3378–.
